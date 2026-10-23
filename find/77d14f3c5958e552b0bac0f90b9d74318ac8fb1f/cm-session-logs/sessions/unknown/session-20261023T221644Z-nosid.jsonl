@@ -1,0 +1,3 @@
+{"cli_version":"0.16.0","command_id":"04c7447a-0aa5-4d18-9486-b933c4aa7a43","duration_ms":86,"exit_code":0,"schema_version":"1","session_id":"","ts":"2026-10-23T22:16:44.247641068Z","type":"command_finish"}
+{"args":[],"cli_version":"0.16.0","command_id":"c2e9c553-cf93-4784-bce0-af19f8f048bd","command_type":"init","is_sandboxed":true,"schema_version":"1","session_id":"","team_id":"","ts":"2026-10-23T22:16:44.813656839Z","type":"command_start","working_dir":"/workspace/repo"}
+{"cli_version":"0.16.0","command_id":"c2e9c553-cf93-4784-bce0-af19f8f048bd","duration_ms":34,"exit_code":0,"schema_version":"1","session_id":"","ts":"2026-10-23T22:16:44.813768963Z","type":"command_finish"}
